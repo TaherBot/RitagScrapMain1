@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "S101",
+      "name": "Ali Ahmed",
+      "major": "Computer Engineering",
+      "schedule": [
+        {"course": "Data Structures", "day": "Monday", "time": "10:00 AM"},
+        {"course": "Operating Systems", "day": "Wednesday", "time": "2:00 PM"}
+      ]
+    },
+    {
+      "id": "S102",
+      "name": "Sara Khalil",
+      "major": "Software Engineering",
+      "schedule": [
+        {"course": "Algorithms", "day": "Tuesday", "time": "1:00 PM"},
+        {"course": "Databases", "day": "Thursday", "time": "3:00 PM"}
+      ]
+    },
+    {
+      "id": "S103",
+      "name": "Omar Nasser",
+      "major": "Electrical Engineering",
+      "schedule": [
+        {"course": "Circuits I", "day": "Sunday", "time": "9:00 AM"},
+        {"course": "Digital Logic", "day": "Tuesday", "time": "11:00 AM"}
+      ]
+    }
+  ]
+}
