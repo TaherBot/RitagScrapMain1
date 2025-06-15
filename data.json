@@ -56,7 +56,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Jamal Fadel Daoud Fawadleh",
-                "capacity": "29",
+                "capacity": "30",
                 "days": "S, M, T, W, R",
                 "time": "08:00 - 09:50",
                 "location": "O.Abdulhadi151"
@@ -72,7 +72,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Huthayfa N. I. Jabari",
-                "capacity": "23",
+                "capacity": "25",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "O.Abdulhadi152"
@@ -199,7 +199,7 @@
                 "section_type": "Lecture",
                 "section_number": "7",
                 "instructor": "Mohammad H. M. Samhan",
-                "capacity": "1",
+                "capacity": "2",
                 "days": "S, M, T, W, R",
                 "time": "13:00 - 14:50",
                 "location": "A.Shaheen202"
@@ -256,7 +256,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mashhour Mousa Mashhour Mshahreh",
-                "capacity": "5",
+                "capacity": "4",
                 "days": "S, M, T, W, R",
                 "time": "08:00 - 09:50",
                 "location": "PNH301"
@@ -482,7 +482,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Maisa Yacoub Naoum Burbar",
-                "capacity": "45",
+                "capacity": "47",
                 "days": "S, M, T, W, R",
                 "time": "10:00 - 11:50",
                 "location": "Al-Juraysi001"
@@ -491,7 +491,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "Maisa Yacoub Naoum Burbar",
-                "capacity": "21",
+                "capacity": "22",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "Al-Juraysi001"
@@ -507,7 +507,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mohand M. B. Tuffaha",
-                "capacity": "15",
+                "capacity": "16",
                 "days": "S, M, T, W, R",
                 "time": "10:00 - 11:50",
                 "location": "Al-Juraysi225"
@@ -539,7 +539,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mohand M. B. Tuffaha",
-                "capacity": "8",
+                "capacity": "9",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "Al-Juraysi227"
@@ -571,7 +571,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Rania Yaser Qostande Jaber",
-                "capacity": "37",
+                "capacity": "36",
                 "days": "S, M, T, W, R",
                 "time": "14:00 - 15:50",
                 "location": "Al-Juraysi325"
@@ -735,7 +735,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Adi Abdul Latif Yousef Qamhieh",
-                "capacity": "10",
+                "capacity": "11",
                 "days": "M, T, W, R",
                 "time": "12:00 - 12:50",
                 "location": "S.Abdulhadi380"
@@ -744,7 +744,7 @@
                 "section_type": "Lab",
                 "section_number": "1",
                 "instructor": "Adi Abdul Latif Yousef Qamhieh",
-                "capacity": "7",
+                "capacity": "8",
                 "days": "M, T, W",
                 "time": "14:00 - 16:50",
                 "location": "SCI355"
@@ -894,7 +894,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Samer Mas'Oud Ahmad Zein",
-                "capacity": "22",
+                "capacity": "24",
                 "days": "S, M, T, W, R",
                 "time": "09:30 - 10:50",
                 "location": "Masri404"
@@ -903,7 +903,7 @@
                 "section_type": "Lab",
                 "section_number": "1",
                 "instructor": "Samer Mas'Oud Ahmad Zein",
-                "capacity": "15",
+                "capacity": "16",
                 "days": "M, T, W",
                 "time": "11:00 - 13:50",
                 "location": "Masri403"
@@ -912,7 +912,7 @@
                 "section_type": "Lab",
                 "section_number": "2",
                 "instructor": "Samer Mas'Oud Ahmad Zein",
-                "capacity": "7",
+                "capacity": "8",
                 "days": "M, T, W",
                 "time": "14:00 - 16:50",
                 "location": "Masri403"
@@ -1119,7 +1119,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Manar Mohammad Afif Kawasmi",
-                "capacity": "8",
+                "capacity": "10",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "A.Shaheen266"
@@ -1128,7 +1128,7 @@
                 "section_type": "Lecture",
                 "section_number": "3",
                 "instructor": "Basel Ibrahim Yousif Rayyan",
-                "capacity": "14",
+                "capacity": "15",
                 "days": "S, M, T, W, R",
                 "time": "08:30 - 10:20",
                 "location": "A.Shaheen202"
@@ -1164,7 +1164,7 @@
                 "section_type": "Lecture",
                 "section_number": "7",
                 "instructor": "Manar Mohammad Afif Kawasmi",
-                "capacity": "45",
+                "capacity": "44",
                 "days": "S, M, T, W, R",
                 "time": "10:00 - 11:50",
                 "location": "A.Shaheen266"
@@ -1173,7 +1173,7 @@
                 "section_type": "Lecture",
                 "section_number": "9",
                 "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
-                "capacity": "11",
+                "capacity": "12",
                 "days": "S, M, T, W, R",
                 "time": "14:00 - 15:50",
                 "location": "PNH103"
@@ -1191,7 +1191,7 @@
                 "section_type": "Lecture",
                 "section_number": "11",
                 "instructor": "Abdul Karim Majed Mustafa Barghothi",
-                "capacity": "6",
+                "capacity": "7",
                 "days": "S, M, T, W, R",
                 "time": "09:00 - 10:50",
                 "location": "Aggad338"
@@ -1225,7 +1225,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "Rami Fawzi Issa Salameh",
-                "capacity": "39",
+                "capacity": "38",
                 "days": "S, M, T, W, R",
                 "time": "08:00 - 09:50",
                 "location": "Bahrain101"
@@ -1261,7 +1261,7 @@
                 "section_type": "Lecture",
                 "section_number": "6",
                 "instructor": "Rana Adeeb Abdullah Kherawish",
-                "capacity": "17",
+                "capacity": "18",
                 "days": "S, M, T, W, R",
                 "time": "10:00 - 11:50",
                 "location": "A.Shaheen064"
@@ -1390,7 +1390,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mohammad Nassar Ahmad Amreyeh",
-                "capacity": "102",
+                "capacity": "103",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "O.Abdulhadi052"
@@ -1472,7 +1472,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mohammad Nassar Ahmad Amreyeh",
-                "capacity": "60",
+                "capacity": "58",
                 "days": "S, M, T, W, R",
                 "time": "10:00 - 11:50",
                 "location": "O.Abdulhadi151"
@@ -1718,7 +1718,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Abualseoud Ahmad Abualseoud Hanani",
-                "capacity": "18",
+                "capacity": "19",
                 "days": "S, M, T, W, R",
                 "time": "08:00 - 09:50",
                 "location": "Masri108"
@@ -1734,7 +1734,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "",
-                "capacity": "21",
+                "capacity": "22",
                 "days": "M, T, W",
                 "time": "08:00 - 10:50",
                 "location": "Masri407"
@@ -1743,7 +1743,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "",
-                "capacity": "23",
+                "capacity": "24",
                 "days": "M, T, W",
                 "time": "11:00 - 13:50",
                 "location": "Masri407"
@@ -1807,7 +1807,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "",
-                "capacity": "23",
+                "capacity": "24",
                 "days": "M, T, W",
                 "time": "14:00 - 16:50",
                 "location": "Masri207"
@@ -1900,7 +1900,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "",
-                "capacity": "17",
+                "capacity": "18",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "Masri204"
@@ -1925,7 +1925,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "",
-                "capacity": "4",
+                "capacity": "5",
                 "days": "M, T, W",
                 "time": "11:00 - 13:50",
                 "location": "Masri506"
@@ -2246,7 +2246,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "Ahmad Shukri Ahmad Shayeb",
-                "capacity": "34",
+                "capacity": "33",
                 "days": "S, M, T, W, RM, W",
                 "time": "12:00 - 13:5014:00 - 15:20",
                 "location": "A.Shaheen216A.Shaheen216"
@@ -2264,7 +2264,7 @@
                 "section_type": "Lecture",
                 "section_number": "4",
                 "instructor": "Tagreed Bajes Butros Abed",
-                "capacity": "8",
+                "capacity": "9",
                 "days": "S, M, T, W, RM, W",
                 "time": "08:00 - 09:5010:00 - 11:20",
                 "location": "SCI219SCI219"
@@ -2298,7 +2298,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "Adnan Ibrahim Abdallah Abuayyash",
-                "capacity": "16",
+                "capacity": "15",
                 "days": "S, M, T, W, RT, R",
                 "time": "12:00 - 13:4014:00 - 15:20",
                 "location": "A.Shaheen206A.Shaheen206"
@@ -2426,7 +2426,7 @@
             }
         ]
     },
-    "ENLG4392": {
+    "ENGL4392": {
         "course_name_ar": "موضوع خاص: الكتابة الابداعية",
         "course_name_en": "SP.TOP: CREATIVE WRITING",
         "study_language": "Study Language: English",
@@ -2499,7 +2499,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Allan S. E. Tubaileh",
-                "capacity": "14",
+                "capacity": "15",
                 "days": "M, T, W, R",
                 "time": "14:00 - 14:50",
                 "location": "Aggad336"
@@ -2508,7 +2508,7 @@
                 "section_type": "Lab",
                 "section_number": "1",
                 "instructor": "Allan S. E. Tubaileh",
-                "capacity": "14",
+                "capacity": "15",
                 "days": "M, T, W",
                 "time": "11:00 - 13:50",
                 "location": "Aggad342"
@@ -2700,7 +2700,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Khalil Abdullah Mutawe' Amro",
-                "capacity": "8",
+                "capacity": "9",
                 "days": "M, T, W, R",
                 "time": "12:00 - 12:50",
                 "location": "Khoury105"
@@ -2789,7 +2789,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mahmud Mohammad Abdallah Abu Katish",
-                "capacity": "15",
+                "capacity": "16",
                 "days": "S, M, T, W, R",
                 "time": "14:00 - 15:50",
                 "location": "O.Abdulhadi151"
@@ -2862,7 +2862,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Rola Jamal Abdalhafeez Abu Shamma",
-                "capacity": "7",
+                "capacity": "8",
                 "days": "S, M, T, W, R",
                 "time": "09:00 - 10:50",
                 "location": "Bamieh201"
@@ -2910,7 +2910,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Hasan M. A. Abdelkareem",
-                "capacity": "13",
+                "capacity": "14",
                 "days": "S, M, T, W, R",
                 "time": "11:00 - 12:50",
                 "location": "Bamieh104"
@@ -2958,7 +2958,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
-                "capacity": "31",
+                "capacity": "32",
                 "days": "S, M, T, W, R",
                 "time": "10:00 - 11:50",
                 "location": "ALSADIK103"
@@ -2974,7 +2974,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Hussein Ahed Hussein Ayaseh",
-                "capacity": "14",
+                "capacity": "15",
                 "days": "S, M, T, W, R",
                 "time": "08:00 - 09:50",
                 "location": "ALSADIK408"
@@ -3070,7 +3070,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
-                "capacity": "12",
+                "capacity": "13",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "ALSADIK202"
@@ -3268,7 +3268,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "Ala Ata Abdelhady Talahmeh",
-                "capacity": "47",
+                "capacity": "48",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:50",
                 "location": "SCI216"
@@ -3357,7 +3357,7 @@
                 "section_type": "Lecture",
                 "section_number": "1",
                 "instructor": "Nasser Aldden J. K. Khasib",
-                "capacity": "10",
+                "capacity": "11",
                 "days": "N/A",
                 "time": "N/A",
                 "location": "N/A"
@@ -3471,7 +3471,7 @@
                 "section_type": "Lecture",
                 "section_number": "2",
                 "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
-                "capacity": "13",
+                "capacity": "14",
                 "days": "S, M, T, W, R",
                 "time": "12:00 - 13:20",
                 "location": "PNH104"
